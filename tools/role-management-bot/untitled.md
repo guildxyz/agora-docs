@@ -51,5 +51,5 @@ Go back to Roles, and move Medousa above the roles, which you would like her to 
 
 ![](../../.gitbook/assets/10kep.png)
 
-That's it! You are done with installing Medusa the role-management bot to guard your channels!
+That's it! You are done with installing Medusa the role-management bot to guard your channels. 
 
