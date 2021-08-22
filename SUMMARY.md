@@ -1,6 +1,7 @@
 # Table of contents
 
 * [General](README.md)
+* [Intro to DAOs](introduction-to-daos.md)
 * [Intro to social tokens](intro-to-social-tokens.md)
 * [$AGORA token](usdagora-token.md)
 
@@ -14,13 +15,9 @@
 
 ## Bots
 
----
-
-* [Try Our Tools](try-our-tools.md)
+* [Try Our Tools](bots/try-our-tools.md)
 
 ## Resources
-
----
 
 * [Github](https://github.com/AgoraSpaceDAO)
 * [Twitter](https://twitter.com/AgoraSpaceDAO)
