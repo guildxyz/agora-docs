@@ -15,13 +15,9 @@
 
 ## Bots
 
----
-
-* [Try Our Tools](try-our-tools.md)
+* [Try Our Tools](bots/try-our-tools.md)
 
 ## Resources
-
----
 
 * [Github](https://github.com/AgoraSpaceDAO)
 * [Twitter](https://twitter.com/AgoraSpaceDAO)
