@@ -36,5 +36,5 @@ If everything went well, and you are already Joined the Community's Discord serv
 
 ![Join Discord through the Invite Link](../.gitbook/assets/image%20%2836%29.png)
 
-Well done! Enjoy your access through the Roles, which Medousa will provide, If you hold any Mutagen Geneses or Prints.
+**Well done!** **Enjoy your access through the Roles, which Medousa will provide, If you hold any Mutagen Geneses or Prints.**
 
