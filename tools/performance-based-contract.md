@@ -10,6 +10,7 @@ description: 'A trustless, decentralized and honest way to monetize content'
 
 More information coming soon...
 
-The toolkit keeps expanding as we are establishing more and more strategic partnerships and integrate more useful protocols.  
-We are also very attentive with our development to the needs of our community, the syndicate and the founders who are already using Agora Space.
+The toolkit keeps expanding as we are establishing more and more strategic partnerships and integrate more useful protocols.   
+We are also very attentive with our development to the needs of our community, the syndicate and the founders who are already using Agora Space.  
+
 

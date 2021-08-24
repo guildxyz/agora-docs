@@ -16,6 +16,7 @@
 ## Bots
 
 * [Try Our Tools](bots/try-our-tools.md)
+* [Join Mutagen](bots/join-mutagen.md)
 
 ## Resources
 
