@@ -8,13 +8,11 @@ description: >-
 
 ## 1. Find the Mutagen Community page
 
-Let's find the Mutagen community in our [explorer ](https://app.agora.space/)first. 
+Let's find the Mutagen community in our [explorer ](https://app.agora.space/)first.
 
 {% hint style="info" %}
 Check out our Social Token Explorer at [https://app.agora.space/](https://app.agora.space/).
 {% endhint %}
-
-
 
 ![Search for MUTAGEN community](../.gitbook/assets/image%20%2830%29.png)
 
@@ -24,5 +22,7 @@ Check out Mutagen community page by selecting the tokenized community from the r
 
 ## Authorize and Join their Discord Server
 
-Select the _Join Discord_ button on the Community Page.
+Select the Join Discord button on the Community Page.
+
+![Connect your discord account](../.gitbook/assets/image%20%2831%29.png)
 
