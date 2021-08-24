@@ -28,7 +28,8 @@ Repeat the steps above \(Manage Group - Select Group type\), then select Private
 
 ![Choose Private Group](../../.gitbook/assets/image%20%285%29.png)
 
-After these steps, your group will surely be converted into a Supergroup. You can check it in [Telegram's browser client](https://web.telegram.org/). You should see something like this:
+After these steps, your group will surely be converted into a Supergroup. You can check it in [Telegram's browser client](https://web.telegram.org/). You should see something like this:  
+
 
 ![Commoners Group converted to Supergroup](../../.gitbook/assets/image%20%283%29.png)
 
@@ -47,7 +48,7 @@ Type **@agoraspacebot** into the text search field, then click on Medousa and Ad
 ## 3. Promote Medousa to Admin
 
 After you successfully added our Bot to your Telegram Group, give her Administrator privileges.  
-Find her in the Members Tab, then right-click on her name, then choose the Promote to admin button:
+Find her in the Members Tab, then right-click on her name, then choose the Promote to admin button: 
 
 ![Give Medousa Administrator privileges](../../.gitbook/assets/image%20%2815%29.png)
 
