@@ -24,3 +24,5 @@ Check out Mutagen community page by selecting the tokenized community from the r
 
 ## Authorize and Join their Discord Server
 
+Select the _Join Discord_ button on the Community Page.
+
