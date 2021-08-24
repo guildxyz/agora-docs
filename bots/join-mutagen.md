@@ -10,7 +10,6 @@ description: >-
 
 Let's find the Mutagen community in our [explorer ](https://app.agora.space/)first.
 
-
 {% hint style="info" %}
 Check out our Social Token Explorer at [https://app.agora.space/](https://app.agora.space/).
 {% endhint %}
