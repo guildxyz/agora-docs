@@ -24,5 +24,7 @@ Check out Mutagen community page by selecting the tokenized community from the r
 
 Select the Join Discord button on the Community Page.
 
-![Connect your discord account](../.gitbook/assets/image%20%2831%29.png)
+![Connect your discord account](../.gitbook/assets/image%20%2832%29.png)
+
+![Authorize Medousa to access your username, avatar and banner](../.gitbook/assets/image%20%2831%29.png)
 
