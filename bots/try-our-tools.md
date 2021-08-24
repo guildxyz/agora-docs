@@ -6,17 +6,17 @@ description: >-
 
 # Try Our Tools
 
-By following these steps you can be one of the first ones to gain access to the demo version of the Agora Space Community and our role-management bot Medusa. 
+By following these steps you can be one of the first ones to gain access to the demo version of the Agora Space Community and our role-management bot Medusa.
 
 ## 1. Prerequisites for QuickSwap
 
 First of all, you need to purchase MATIC tokens, and then deposit them into your web wallet, like MetaMask, Coinbase Wallet or any compatible wallet with the QuickSwap exchange. Don't worry, for the highest privileges, you only need to **Stake 500 AGOTEST** tokens, which costs around **0.05 MATIC.**
 
 {% hint style="info" %}
- QuickSwap — a decentralized finance product. It's a fork of the popular Uniswap decentralized exchange \(DEX\), except it runs on the Polygon network \(formerly Matic Network\). Running on a Layer 2 scaling solution like Polygon enables it to achieve low fees and complete trades in a matter of seconds \(even if Ethereum is congested\). Polygon runs atop the Ethereum network.
+QuickSwap — a decentralized finance product. It's a fork of the popular Uniswap decentralized exchange \(DEX\), except it runs on the Polygon network \(formerly Matic Network\). Running on a Layer 2 scaling solution like Polygon enables it to achieve low fees and complete trades in a matter of seconds \(even if Ethereum is congested\). Polygon runs atop the Ethereum network.
 {% endhint %}
 
-In this walkthrough, we will use _MetaMask_. 
+In this walkthrough, we will use _MetaMask_.
 
 {% hint style="info" %}
 If you are not familiar with MetaMask or wallet creation, you can follow the guide below.  
@@ -37,8 +37,8 @@ Open MetaMask, then click the _circular image in the top right corner_ of your M
 > Symbol: MATIC  
 > Block Explorer URL: [https://explorer.matic.network/](https://explorer.matic.network/)
 
-After completing the instructions above, scroll down and click _Save_. Usually, MetaMask switches to the newly added Network, but if that doesn't happen, just switch it manually to the Matic Mainnet at the top of your wallet.  
-  
+After completing the instructions above, scroll down and click _Save_. Usually, MetaMask switches to the newly added Network, but if that doesn't happen, just switch it manually to the Matic Mainnet at the top of your wallet.
+
 Let's exchange a few AGOTEST tokens on QuickSwap in the section below.
 
 ## 3. Connect your wallet to QuickSwap
@@ -53,8 +53,7 @@ Go to [https://quickswap.exchange/](https://quickswap.exchange/) and connect you
 
 ## 4. Import AGOTEST Tokens
 
-Click _Select a token_, then paste our **AGOTEST** \(0xfF9bAaC24c68d810af1F98012d3D25B0Ea83902e\) token address into the field, you can click on the _Add_ button, and next time you do not have to copy at all_._  
-
+Click _Select a token_, then paste our **AGOTEST** \(0xfF9bAaC24c68d810af1F98012d3D25B0Ea83902e\) token address into the field, you can click on the _Add_ button, and next time you do not have to copy at all_._
 
 ![Select a token](../.gitbook/assets/image%20%2823%29.png)
 
@@ -78,7 +77,7 @@ You are holding a few from our tokens now, you can try our Role-management bot o
 
 ## 6. Get in Touch
 
-Connect your MetaMask wallet to our site in the top right corner \(as usual\). Make sure, you are still on the Polygon Network \(formerly Matic\)! Based on your tokens, and their state \(Hold, Stake\) you already have access to some of our Groups. 
+Connect your MetaMask wallet to our site in the top right corner \(as usual\). Make sure, you are still on the Polygon Network \(formerly Matic\)! Based on your tokens, and their state \(Hold, Stake\) you already have access to some of our Groups.
 
 ![You can join both platforms through these buttons](../.gitbook/assets/image%20%287%29.png)
 
@@ -112,9 +111,7 @@ After the authentication process succeeds, you have to _Sign_ a transaction thro
 
 ![You will get an invitation link to the specific Discord Server](../.gitbook/assets/image%20%288%29.png)
 
-The last thing you have to do is **Join the server** and enjoy! 
-
-
+The last thing you have to do is **Join the server** and enjoy!
 
 **That's it, well done! If you have any questions, just contact us through our official platforms.**
 

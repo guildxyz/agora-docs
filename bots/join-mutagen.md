@@ -8,13 +8,11 @@ description: >-
 
 ## 1. Find the Mutagen Community page
 
-Let's find the Mutagen community in our [explorer ](https://app.agora.space/)first. 
+Let's find the Mutagen community in our [explorer ](https://app.agora.space/)first.
 
 {% hint style="info" %}
 Check out our Social Token Explorer at [https://app.agora.space/](https://app.agora.space/).
 {% endhint %}
-
-
 
 ![Search for MUTAGEN community](../.gitbook/assets/image%20%2830%29.png)
 
