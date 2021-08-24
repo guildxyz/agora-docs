@@ -1,7 +1,7 @@
 ---
 description: >-
-  Be among the first few to try our token gated community with these few steps
-  below. Don't miss out!
+  Be among the first few to try our token gated acess with Mutagen Community.
+  Don't miss out!
 ---
 
 # Join Mutagen
