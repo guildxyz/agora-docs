@@ -30,7 +30,11 @@ Select the Join Discord button on the Community Page.
 
 After the authorization and authentication suceed, we will redirect you to our page, where you should _Sign_ the Join process with your Metamask.
 
-![Sign the transaction to receive your Invite Link and Roles](../.gitbook/assets/image%20%2833%29.png)
+![Sign the transaction to receive your Invite Link and Roles](../.gitbook/assets/image%20%2834%29.png)
 
 If everything went well, and you are already Joined the Community's Discord server, you will get your Roles as soon as possible. If you are not joined the desired Community Server yet, you will receive an invite link.
+
+![Join Discord through the Invite Link](../.gitbook/assets/image%20%2836%29.png)
+
+Well done! Enjoy your access through the Roles, which Medousa will provide, If you hold any Mutagen Geneses or Prints.
 
