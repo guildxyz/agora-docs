@@ -32,5 +32,5 @@ After the authorization and authentication suceed, we will redirect you to our p
 
 ![Sign the transaction to receive your Invite Link and Roles](../.gitbook/assets/image%20%2833%29.png)
 
-
+If everything went well, and you are already Joined the Community's Discord server, you will get your Roles as soon as possible. If you are not joined the desired Community Server yet, you will receive an invite link.
 
