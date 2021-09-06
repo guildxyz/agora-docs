@@ -5,7 +5,7 @@
 
 ## Tools
 
-* [Role-management bot](tools/role-management-bot/README.md)
+* [Token-gated access](tools/role-management-bot/README.md)
   * [Telegram bot](tools/role-management-bot/telegram.md)
   * [Discord bot](tools/role-management-bot/discord.md)
 * [Twitter bounty](tools/twitter-bounty.md)
