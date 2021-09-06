@@ -1,8 +1,6 @@
 # Table of contents
 
 * [General](README.md)
-* [Intro to DAOs](introduction-to-daos.md)
-* [Intro to social tokens](intro-to-social-tokens.md)
 * [$AGORA token](usdagora-token.md)
 
 ## Tools
