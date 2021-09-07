@@ -8,8 +8,8 @@
 * [Token-gated access](tools/role-management-bot/README.md)
   * [Telegram bot](tools/role-management-bot/telegram.md)
   * [Discord bot](tools/role-management-bot/discord.md)
-* [Twitter bounty](tools/twitter-bounty.md)
-* [Performance-based contract](tools/performance-based-contract.md)
+* [Gamification](tools/twitter-bounty.md)
+* [Trustless financial contract](tools/performance-based-contract.md)
 
 ## Bots
 

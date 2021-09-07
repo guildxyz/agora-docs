@@ -1,10 +1,10 @@
 ---
-description: 'A trustless, decentralized and honest way to monetize content'
+description: 'A trustless, decentralized and honest way to collaborate'
 ---
 
-# Performance-based contract
+# Trustless financial contract
 
-**Performance-based creator contracts:** A new way of making trustless financial contracts based on data from social media. Participants decide on a performance indicator and a price for reaching that goal. Agora Social Oracle provides a decentralized system to make sure both parties get what they agreed to. These contracts provide a potential of a new financial solution for creatives to monetize their content without compromise.
+A new way of making financial contracts based on data from social media. Participants decide on a performance indicator and a price for reaching that goal. Agora Social Oracle provides a decentralized system to make sure both parties get what they agreed to. These contracts provide a potential of a new financial solution for creatives to monetize their content without compromise. This solution also opens the door for DAO2DAO cooperation by allowing any two parties to write an on-chain contract even if they are not legal entities.
 
 ![](../.gitbook/assets/group-283-1-.png)
 
