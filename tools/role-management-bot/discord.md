@@ -8,7 +8,7 @@ description: >-
 
 ## 1. Invite Medusa
 
-Your first task is to invite Medousa through the invite link below:  
+Your first task is to invite Medusa through the invite link below:  
 \(You must have Administrator privileges on the Discord server!\)
 
 {% hint style="info" %}
@@ -35,7 +35,7 @@ If everything went well, you should see the following responses in your browser 
 
 ## 2. Check the permissions
 
-Check for the bot Permissions in your Server Settings to change them at: / Roles / Medousa - Edit
+Check for the bot Permissions in your Server Settings to change them at: / Roles / Medusa - Edit
 
 ![Server Settings](../../.gitbook/assets/6kep.png)
 
@@ -43,11 +43,11 @@ Check for the bot Permissions in your Server Settings to change them at: / Roles
 
 ![Edit Medusa&apos;s role](../../.gitbook/assets/8kep.png)
 
-Choose Permissions, and type “Administrator” into the search field. Make sure, Medousa has Administrator privileges.
+Choose Permissions, and type “Administrator” into the search field. Make sure, Medusa has Administrator privileges.
 
 ![](../../.gitbook/assets/9kep.png)
 
-Go back to Roles, and move Medousa above the roles, which you would like her to manage automatically based on your Community Levels. \(You can move the role with this icon: ![](https://lh3.googleusercontent.com/sZMRe5iGtIgs5EJYLLB0EE11teo2U0AwJeGTgeV3LrRwMQMjLuQ4Fqu39f5Ts9wFXc3CWaZf19BmmKWSFce4VAjHlGRyxQnMrBcD1qcJc81Sp_W3Kx1_VDWPfMxf2KxUwz2p_Ys3) Hold down your left mouse button and just simply drag it.\)
+Go back to Roles, and move Medusa above the roles, which you would like her to manage automatically based on your Community Levels. \(You can move the role with this icon: ![](https://lh3.googleusercontent.com/sZMRe5iGtIgs5EJYLLB0EE11teo2U0AwJeGTgeV3LrRwMQMjLuQ4Fqu39f5Ts9wFXc3CWaZf19BmmKWSFce4VAjHlGRyxQnMrBcD1qcJc81Sp_W3Kx1_VDWPfMxf2KxUwz2p_Ys3) Hold down your left mouse button and just simply drag it.\)
 
 ![](../../.gitbook/assets/10kep.png)
 
