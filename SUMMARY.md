@@ -7,20 +7,18 @@
 
 ## Tools
 
-* [Role-management bot](tools/role-management-bot/README.md)
-  * [Telegram bot](tools/role-management-bot/telegram.md)
-  * [Discord bot](tools/role-management-bot/discord.md)
-* [Twitter bounty](tools/twitter-bounty.md)
-* [Performance-based contract](tools/performance-based-contract.md)
+* [Try Our Tools](tools/try-our-tools.md)
 
-## Bots
+## Concepts
 
-* [Try Our Tools](bots/try-our-tools.md)
-* [Join Mutagen](bots/join-mutagen.md)
+* [Role-management bot](concepts/role-management-bot/README.md)
+  * [Telegram bot](concepts/role-management-bot/telegram.md)
+  * [Discord bot](concepts/role-management-bot/discord.md)
+* [Twitter bounty](concepts/twitter-bounty.md)
+* [Performance-based contract](concepts/performance-based-contract.md)
 
 ## Resources
 
 * [Github](https://github.com/AgoraSpaceDAO)
 * [Twitter](https://twitter.com/AgoraSpaceDAO)
 * [Medium](https://medium.com/@AgoraSpace)
-
